@@ -1,0 +1,146 @@
+
+.flat-back {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.flat-white {
+    height: 30vh;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+
+.first-flat-head {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 30px;
+    padding: 15px;
+}
+
+.first-flat-para {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 15px;
+}
+
+.first-flat-but {
+    height: 35px;
+    width: 100px;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+}
+
+.flat-secound-back {
+    background-color: #222222;
+    height: 750px;
+    background-size: cover;
+}
+
+.flat-secound-head {
+    font-size: 25px;
+    color: #f19116;
+    font-family: "Bree Serif";
+    padding: 15px;
+}
+
+.flat-card-img {
+    height: 180px;
+    width: 100px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.flat-card-1 {
+    height: 180px;
+    width: 270px;
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 15px;
+}
+
+.flat-3bhk {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.flat-3bhk-matter {
+    font-size: 15px;
+    color: #7b8794;
+    margin-left: 10px;
+    font-family: "Bree Serif";
+}
+
+.flat-secound-but {
+    background-color: #f19116;
+    color: white;
+    height: 35px;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.flat-3bhk-img {
+    height: 45vh;
+    background-size: cover;
+}
+
+.flat-3bhk-img-back {
+    background-color: #222222;
+    height: 680px;
+    width: 470px;
+}
+
+.flat-3bhk-price {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding: 20px;
+}
+
+.flat-3bhk-location {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.flat-3bhk-location-img {
+    height: 30px;
+    width: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.horizontal {
+    color: white;
+    border-color: white;
+    width: 400px;
+    border-width: 2px;
+    margin-right: 15px;
+}
+
+.flat-3bhk-price-1 {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+
+}
+
+.flat-3bhk-but {
+    background-color: #f19116;
+    color: white;
+    height: 35px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
